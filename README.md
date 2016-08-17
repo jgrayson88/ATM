@@ -1,5 +1,6 @@
 ATM
 ===
+--update this to make more readable: also mention that it needs to read a text file of customer numbers and PIN numbers which is uses to create an ArrayList of customers.
 
 The goal of this project is to create a text-based automatic teller machine (ATM) using the spiral model of software development. Bank customers will use the ATM and each customer will have a customer number and personal identification number (PIN) that will provide them access to their checking account and their savings account. 
 
